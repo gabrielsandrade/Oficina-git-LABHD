@@ -11,3 +11,5 @@
 - git commit -m
 - git push origin master
 - git pull origin master
+- git checkout -b "Nome do repositório"
+- git branch
