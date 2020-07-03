@@ -5,3 +5,7 @@
 - Unmodified
 - Modified
 - Staged
+
+## Principais comandos git
+- git add
+- git commit -m
